@@ -1,4 +1,3 @@
-<DOCTYPE html>
    <!DOCTYPE html>
    <html lang="en">
    <head> 
@@ -21,10 +20,9 @@
         
   Skriven av Yngve Magnusdottir <head></p>
    </body>
-   </html> 
+   </html>
 
-
-<**header**> The Garlic News </**header**>
+<h1><header> The Garlic News </header></h1>
 <section>
 <article>
 <footer>info@garlicnews.com
