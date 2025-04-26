@@ -22,3 +22,10 @@
   Skriven av Yngve Magnusdottir <head></p>
    </body>
    </html> 
+
+
+<header> The Garlic News</header>
+<section>
+<article>
+<footer>info@garlicnews.com
++850 555-1337</footer>
