@@ -4,7 +4,7 @@
    <head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Nyhetsidan </head></title>
+    <title> Nyhetsidan </title></head>
     </head>
    <body>
     <h1>Trump har gjort det igen!</head></h1>
