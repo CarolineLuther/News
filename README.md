@@ -4,8 +4,8 @@
    <head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Nyhetssidan </title>
-   </head>
+    <title> Nyhetsidan </head></title>
+    </head>
    <body>
     <h1>Trump har gjort det igen!</head></h1>
     <h2>USAs president senaste tweet, "Det var jag som uppfann hjulet!"</h2>
@@ -18,7 +18,7 @@
         architecto placeat illum consequuntur? Aliquam voluptatem quod expedita 
         minima ipsa assumenda necessitatibus delectus asperiores!
         
-        Skriven av Yngve Magnusdottir
-**    <p>
-**   </body>
+        Skriven av Yngve Magnusdottir</p>
+        
+   </body>
    </html> 
