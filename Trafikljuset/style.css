@@ -1,0 +1,12 @@
+.traffic-lights{
+display: flex;
+flex-direction: column;
+gap: 10px;
+box-sizing: border-box;
+}
+
+body {
+width: 150px; 
+height: 150px;
+background-color: blue;
+}
