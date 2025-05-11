@@ -1,12 +1,36 @@
-.traffic-lights{
-display: flex;
-flex-direction: column;
-gap: 10px;
-box-sizing: border-box;
+*{
+    box-sizing: border-box;
 }
 
 body {
-width: 150px; 
-height: 150px;
-background-color: blue;
+width: 100vw; 
+height: 100vh;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-item.red {  
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 10px solid darkred;
+    display: flex;
+}
+.flex-item.yellow {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 10px solid darkgoldenrod;
+    display: flex;
+
+}
+.flex-item.green {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 10px solid darkgreen;
+    display: flex;
+
 }
